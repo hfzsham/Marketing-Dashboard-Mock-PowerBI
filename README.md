@@ -1,7 +1,10 @@
 # Marketing-Dashboard-Mock-PowerBI
 
+## Screenshot of the dashboard
 ![test_marketing_campaign_dashboard](https://github.com/user-attachments/assets/70d6c98f-f258-4339-937d-38665f9e3515)
 
+## Demo
+![PBIDesktop_m2XnLlj9UD](https://github.com/user-attachments/assets/aa43c687-8008-48a9-83bc-8dffbcc8a1a9)
 
 ## Data Used
 
