@@ -36,7 +36,7 @@ A cursory glance at the sheet shows the personal and company information of each
 A few minor transformations were perfomed on the data in the spreadsheet, including the use of a PivotTable to understand the count of ```_engagement``` by each type and PowerQuery to perform minor cleaning before loading into PowerBI.
 
 ## Questions
-A few questions key questions I came up with while looking at the raw data:
+Some questions I came up with while looking at the raw data:
 
 1. How many of the client's emails were clicked, opened and downloaded?
 2. What is the location breakdown of the marketing campaing?
@@ -48,10 +48,12 @@ A few questions key questions I came up with while looking at the raw data:
 8. Which of the marketing assets performed the best?
 
 ## Summary of Findings
-1. sdfvf
+1. There were 988 opens by 156 companies, 64 clicks by 45 companies, and 7 downloads by 7 companies.
 2. The companies all are located in varying regions across the United States. Engagements were mostly concentrated in urban states such as New York, Massachussetts, Michigan and California, with others from Texas, Florida and Colorado.
 3. The marketing campaign were reached mostly by 156 companies across Hospitals & Physicians Clinics, Insurance, Manufacturing, Medical Devices & Equipment, Pharmaceuticals, followed by other industries. From the treemap, the most engaged companies in the Hospital industry Ascension, Avera Health, Kaiser, AdventHealth, and Norwell are the top companies. In Insurance, the top two are UnitedHealth Group and MetLife.
 4. Based on the scatter plot, the industry with the highest revenue is the Insurance industry which generates close to $100 B, followed by Medical Devices and Manufacturing with around $60 B and $30 B respectively. As mentioned, most of the engagement stems from the Hospitals industry which generates around $10 B annually.
 5. Around 60% are Directors who engaged with the marketing campaign, followed by C-Levels and VPs at 24% and 15% respectively, followed by the rest.
-6. 
+6. Most were from the Hospitals industry (546 engagements), followed by Insurance (210 engagements), Manufacturing (168 engagements), Pharmacies (71 engagements), and Medical Devices (31 engagements).
+7. Most of the engagements were from people in the IT and Compliance functions (33% and 30% respectively), followed by Risk (14%), Medical Administration (12%) and Operations (10%).
+8. EB01 performed the best as it has the highest number of engagements at 483, followed by EB02 (307 engagements), EB03 (210 engagements) and CYG (59 engagements).
 
