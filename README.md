@@ -60,3 +60,12 @@ Some questions I came up with while looking at the raw data:
 7. Most of the engagements were from people in the IT and Compliance functions (33% and 30% respectively), followed by Risk (14%), Medical Administration (12%) and Operations (10%).
 8. EB01 performed the best as it has the highest number of engagements at 483, followed by EB02 (307 engagements), EB03 (210 engagements) and CYG (59 engagements).
 
+## Recommendations
+- Focus on increasing the engagement of industries that generate the highest annual revenue, which are the Insurance, Medical Devices and Manufacturing Industries. They should also continue to prioritize and tailor campaigns for Hospitals & Physician Clinics and consider expanding campaigns with tailored messaging.
+- Campaigns EB01 and EB02 performed the best. Investigate what made these campaigns perform and develop custom content and refine their targeting.
+- In general, the East Coast (New York, Toronto, Chicago) and West Coast (California) show concentrated engagements. Client A should double down on digital ad spend and outreach in these regions.
+- Tailor email campaigns specifically to address painpoints by the top engaging functions, such as IT, Compliance and Risk.
+- Consider personalized outreach to senior leadership and decision-makers. Currently, Directors are most engaged, whereas C-levels is relatively under-engaged.
+- Companies like Ascension, UnitedHealth Group, and Colgate-Palmolive are most engaged. Consider offering tailored follow-ups, case studies or direct meetings for conversion.
+- Analyze industries which show relatively low engagement, which are Healthcare, Chemicals, Pharmaceuticals, Medical Devices and Manufacturing. Investigate where content is too generic and/or not addressing key concerns in these sectors.
+- From the engagement filters, most seem to be "Opened" rather than deeper engagement like "Clicked" or "Downloaded". Optimize CTA placement, content quality and follow-up strategy to drive deeper interactions beyond email open.
